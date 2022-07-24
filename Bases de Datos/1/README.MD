@@ -13,9 +13,18 @@ Una base de datos es una recopilación organizada de información o datos estruc
 
 Las bases de datos surgen de la necesidad de conservar la información más allá de lo que existe en la memoria RAM.
 
+# Antes de las bases de datos relacionales
+
+anteriormente se usaban bases de datos basadas en archivos, el cuál era texto plano fácil de guardar, pero difícil de extraer, por esto se inventaron las bases de datos relacionales.
+
+## Ejemplos:
+
+[1. Phones](https://github.com/codeforamerica/ohana-api/blob/master/data/sample-csv/phones.csv)
+[2. Addresses](https://github.com/codeforamerica/ohana-api/blob/master/data/sample-csv/addresses.csv)
+
 Las bases de datos basadas en archivos eran datos guardados en texto plano, fáciles de guardar pero muy difíciles de consultar y por la necesidad de mejorar esto nacen las bases de datos relacionales. Su inventor Edgar Codd dejó ciertas reglas para asegurarse de que toda la filosofía de las bases de datos no se perdiera, estandarizando el proceso, Codd invento el algebra relacional
 
-Es importante que sea fácil de guardar y extraer, anteriormente se usaban bases de datos basadas en archivos, el cuál era texto plano fácil de guardar, pero difícil de extraer, por esto se inventaron las bases de datos relacionales. En 1990 Codd se preocupó porque los sistemas de gestión de bases de datos (SGBD) que decían ser relacionales, no lo eran. En la práctica es difícil cumplir las 12 pero, un SGBD es más relacional cuantas más reglas cumpla
+Es importante que sea fácil de guardar y extraer, En 1990 Codd se preocupó porque los sistemas de gestión de bases de datos (SGBD) que decían ser relacionales, no lo eran. En la práctica es difícil cumplir las 12 pero, un SGBD es más relacional cuantas más reglas cumpla
 
 Las Reglas y mandamientos de Edgar Frank Ted Codd)
 
