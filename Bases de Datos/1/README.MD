@@ -13,6 +13,8 @@ Una base de datos es una recopilación organizada de información o datos estruc
 
 Las bases de datos surgen de la necesidad de conservar la información más allá de lo que existe en la memoria RAM.
 
+[![IMAGE_ALT](https://img.youtube.com/vi/UmX4kyB2wfg/0.jpg)](https://www.youtube.com/watch?v=6S8A-1jBD5Y)
+
 # Antes de las bases de datos relacionales
 
 anteriormente se usaban bases de datos basadas en archivos, el cuál era texto plano fácil de guardar, pero difícil de extraer, por esto se inventaron las bases de datos relacionales.
@@ -20,6 +22,7 @@ anteriormente se usaban bases de datos basadas en archivos, el cuál era texto p
 ## Ejemplos:
 
 [1. Phones](https://github.com/codeforamerica/ohana-api/blob/master/data/sample-csv/phones.csv)
+
 [2. Addresses](https://github.com/codeforamerica/ohana-api/blob/master/data/sample-csv/addresses.csv)
 
 Las bases de datos basadas en archivos eran datos guardados en texto plano, fáciles de guardar pero muy difíciles de consultar y por la necesidad de mejorar esto nacen las bases de datos relacionales. Su inventor Edgar Codd dejó ciertas reglas para asegurarse de que toda la filosofía de las bases de datos no se perdiera, estandarizando el proceso, Codd invento el algebra relacional
@@ -104,3 +107,18 @@ Existen muchos tipos diferentes de bases de datos. La mejor base de datos para u
 **Bases de datos orientadas a grafos.** Una base de datos orientada a grafos almacena datos relacionados con entidades y las relaciones entre entidades.
 
 **Bases de datos OLTP.** Una base de datos OLTP es una base de datos rápida y analítica diseñada para que muchos usuarios realicen un gran número de transacciones
+
+[![IMAGE_ALT](https://img.youtube.com/vi/UmX4kyB2wfg/0.jpg)](https://www.youtube.com/watch?v=vvsqP1f1JJs)
+
+# Tipos de bases de datos mas utilizados actualmente:
+
+![tipos de bases de datos mas utlizados](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/7.png)
+
+# RBD (Bases de datos relacionales)
+
+![RBD](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/8.png)
+
+# Bases de datos NO relacionales
+
+![No Relacionales 1](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/9.png)
+![No Relacionales 1](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/10.png)
