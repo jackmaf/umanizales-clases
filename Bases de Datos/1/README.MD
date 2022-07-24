@@ -1,6 +1,6 @@
 # Pequeña historia Persistencia de la información
 
-![IMAGE_ALT](https://img.youtube.com/vi/UmX4kyB2wfg/0.jpg)
+![Pequeña historia Persistencia de la informacion](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/Persistencia%20de%20la%20informacion.png)
 
 # Historia de las DB (BASES DE DATOS
 
