@@ -48,3 +48,18 @@ Existen varios tipos de notaciones para los modelos entidad relacionamiento. **C
 ![Notacion Chen](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/chen-notation.png)
 
 [3. Lucidchart para graficar](https://www.lucidchart.com/pages/)
+
+# Ejercicios de practica:
+
+Identificar y graficar usando la notacion chen las entidades y atributos de los siguientes sistemas:
+
+1. Biblioteca virtual (Kindle Books)
+2. Tienda virtual de Ropa
+3. Tienda virtual de Electrodomesticos
+4. Tienda virtual de mascotas
+5. Tienda virtual de medicamentos
+6. Tienda virtual de bisuteria
+7. Tienda virtual de peliculas
+8. Tienda virtual de automoviles
+9. Tienda virtual de motocicletas
+10. Tienda virtual de bicicletas
