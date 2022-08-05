@@ -6,11 +6,13 @@ En bases de datos, una entidad es la representación de un objeto o concepto del
 
 Una entidad es algo similar a un objeto (programación orientada a objetos) y representa algo en el mundo real, incluso algo abstracto. Tienen atributos que son las cosas que los hacen ser una entidad y por convención se ponen en plural.
 
-# Ejemplo de entidad en bases de datos
+# Ejemplo de entidad en bases de datos (con Notacion Chen)
 
-En la imagen puedes observar como ejemplo que la entidad Laptops posee diferentes atributos como color, pantalla, año, modelo, etc.
+![Ejemplo chen 1](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/chen-ejemplo-1.png)
+![Ejemplo chen 2](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/chen-ejemplo-2.png)
+![Ejemplo chen 3](https://raw.githubusercontent.com/jackmaf/umanizales-clases/master/Bases%20de%20Datos/1/ARCHIVOS/chen-ejemplo-3.webp)
 
-IMAGENIMAGEN
+[1. Ejemplos Notacion Chen](https://online.visual-paradigm.com/diagrams/templates/chen-entity-relationship-diagram/)
 
 # ¿Qué es un atributo?
 
@@ -31,3 +33,6 @@ Identidades débiles por identidad: no se diferencian entre sí más que por la 
 Identidades débiles por existencia: se les asigna una clave propia.
 Cómo representar las entidades en bases de datos
 Existen varios tipos de notaciones para los modelos entidad relacionamiento. Chen es uno de los más utilizados para diagramar lógicamente la base de datos. Aquí te mostramos un ejemplo.
+
+[1. Lucidchart para graficar](https://www.lucidchart.com/pages/)
+[2. Ejemplo diagrama de chen](https://colaboracion.dnp.gov.co/CDTI/Oficina%20Informatica/Sistemas%20de%20informaci%C3%B3n/Gu%C3%ADas%20Formatos%20Plantillas/Lineamientos%20Modelos%20Entidad%20Relaci%C3%B3n.pdf?)
