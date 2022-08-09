@@ -43,6 +43,12 @@ Es una propiedad de las relaciones que indica la cantidad y correspondencia con 
 
 ![Ejemplos de cardinalidad 2](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/ejemplo_cardinalidad_2.png)
 
+![Ejemplos de cardinalidad 3](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/ejemplo3cardinalidadentida.png)
+
 ## Diagrama entidad relacion
 
 ![ejemplos_modelo_entidad_relacion](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/ejemplos_modelo_entidad_relacion.jpeg)
+
+# Otros tipos de diagramas entidad relacion
+
+[Otros tipos de diagramas de entidad relacion](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model#Cardinalities)
