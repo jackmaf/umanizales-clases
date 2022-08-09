@@ -11,6 +11,16 @@ Es una propiedad de las relaciones que indica la cantidad y correspondencia con 
 - varios a uno (n a 1)
 - varios a varios. (n a a)
 
-tiene
+**Rombos verbos** (tiene, pertenece, etc... )
+
+![Ejemplos de cardinalidad](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/ejemplos cardinalidad.jpeg)
+
+![Ejemplos de cardinalidad 2](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/ejemplo cardinalidad 2.png)
 
 ![Cardinalidad](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/cardinalidad.png)
+
+# Cardinalidad Uno a Uno (1 a 1)
+
+![1 a 1 ejemplo 1](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/1a1-1.png)
+
+[Otro ejemplo de cardinalidad](http://www.aulapc.es/lupa_busquedas_posit.html1accesA~A60.00)
