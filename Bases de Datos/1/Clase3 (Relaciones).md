@@ -11,7 +11,7 @@ Es una propiedad de las relaciones que indica la cantidad y correspondencia con 
 - varios a uno (n a 1)
 - varios a varios. (n a a)
 
-**Rombos verbos** (tiene, pertenece, etc... )
+**Rombos verbos** (tiene, pertenece, es dueño, esta censado, enseña ,etc... )
 
 ![Ejemplos de cardinalidad](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/ejemplos_cardinalidad.jpeg)
 
@@ -23,4 +23,18 @@ Es una propiedad de las relaciones que indica la cantidad y correspondencia con 
 
 ![1 a 1 ejemplo 1](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/1a1-1.png)
 
+# Cardinalidad Uno a Muchos (1 a N)
+
+![1 a N ejemplo 1](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/1an.png)
+
+# Cardinalidad Muchos a Muchos (N a N)
+
+![N a N ejemplo 1](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/nan.png)
+
+# Practiquemos un poco
+
 [Otro ejemplo de cardinalidad](http://www.aulapc.es/lupa_busquedas_posit.html1accesA~A60.00)
+
+## Diagrama entidad relacion
+
+![ejemplos_modelo_entidad_relacion](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/ejemplos_modelo_entidad_relacion.jpeg)
