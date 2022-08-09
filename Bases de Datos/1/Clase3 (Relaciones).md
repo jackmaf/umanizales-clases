@@ -19,11 +19,13 @@ Es una propiedad de las relaciones que indica la cantidad y correspondencia con 
 
 # Cardinalidad Uno a Uno (1 a 1)
 
-![1 a 1 ejemplo 1](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/1a1-1.png)
+![1 a 1 ejemplo 1](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/1a1principal.png)
+
+![1 a 1 ejemplo 2](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/1a1-1.png)
 
 # Cardinalidad Uno a Muchos (1 a N)
 
-![1 a N ejemplo 2](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/1a1principal.png)
+![1 a N ejemplo 1](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/1anprincipal.png)
 
 ![1 a N ejemplo 2](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/1an.png)
 
