@@ -13,9 +13,9 @@ Es una propiedad de las relaciones que indica la cantidad y correspondencia con 
 
 **Rombos verbos** (tiene, pertenece, etc... )
 
-![Ejemplos de cardinalidad](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/ejemplos cardinalidad.jpeg)
+[Ejemplos de cardinalidad](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/ejemplos cardinalidad.jpeg)
 
-![Ejemplos de cardinalidad 2](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/ejemplo cardinalidad 2.png)
+[Ejemplos de cardinalidad 2](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/ejemplo cardinalidad 2.png)
 
 ![Cardinalidad](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/cardinalidad.png)
 
