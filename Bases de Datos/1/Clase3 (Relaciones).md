@@ -31,7 +31,9 @@ Es una propiedad de las relaciones que indica la cantidad y correspondencia con 
 
 # Cardinalidad Muchos a Muchos (N a N)
 
-![N a N ejemplo 1](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/nan.png)
+![N a N ejemplo 1](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/nanprincipal.png)
+
+![N a N ejemplo 2](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/nan.png)
 
 # Practiquemos un poco
 
