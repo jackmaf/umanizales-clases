@@ -121,6 +121,8 @@ una de las tablas.
 ¿Cómo quedaría el modelo relacional suponiendo que cada profesor sólo imparte un
 módulo y cada módulo es impartido por sólo un profesor?
 
+![t9](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/t9.png)
+
 ## EJERCICIO 10
 
 Transforma el modelo entidad-relación del ejercicio 4 al modelo relacional. Diseña las
@@ -128,6 +130,8 @@ tablas en Excel, realiza las relaciones que consideres oportunas e inserta cinco
 en cada una de las tablas.
 Si un cliente sólo puede comprar un coche en el concesionario, y un coche sólo puede ser
 comprado por un cliente, ¿cómo quedaría el modelo relacional?
+
+![t10](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/t10.png)
 
 ## EJERCICIO 11
 
@@ -148,6 +152,8 @@ tener muchos hijos/as o ninguno. Una persona siempre es hijo/a de otra persona. 
 atributos de la persona son cedula, nombre, dirección y teléfono. Transformarlo al modelo
 relacional.
 
+![t13](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/t13.png)
+
 ## EJERCICIO 14
 
 A partir del siguiente enunciado, diseñar el modelo entidad-relación.
@@ -165,6 +171,8 @@ interesa guardar la fecha de préstamo y la fecha de devolución”.
 Pasar el modelo entidad-relación resultante al modelo relacional. Diseñar las tablas en
 Excel, realizar las relaciones oportunas entre tablas e insertar cinco registros en cada
 una de las tablas.
+
+![t14](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/t14.png)
 
 ## EJERCICIO 15
 
@@ -185,6 +193,8 @@ repara cada vehículo y el número de horas que se tardado en arreglar cada auto
 Pasar el modelo entidad-relación resultante al modelo relacional. Diseñar las tablas en
 Excel, realizar las relaciones oportunas entre tablas e insertar cinco registros en cada
 una de las tablas.
+
+![t15](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/t15.png)
 
 ## EJERCICIO 16
 
@@ -212,6 +222,8 @@ tener un presidente, y una persona sólo puede ser presidente de un equipo de la
 Pasar el modelo entidad-relación resultante al modelo relacional. Diseñar las tablas en
 Excel, realizar las relaciones oportunas entre tablas e insertar cinco registros en cada
 una de las tablas.
+
+![t16](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/t16.png)
 
 ## EJERCICIO 17
 
@@ -241,6 +253,8 @@ habrá de tener en cuenta que puede que haya profesores que no sean tutores de n
 curso”.
 Una vez construido el modelo E-R pasarlo al modelo relacional. Diseñar las tablas en
 Excel, hacer las relaciones oportunas e insertar 5 registros en cada una de las tablas.
+
+![t17](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/t17.png)
 
 ## EJERCICIO 18
 
@@ -273,6 +287,8 @@ dirigir centros de trabajo distintos.
 Realizar el diseño de la base de datos en Excel e introducir cinco registros en cada una
 de las tablas.
 
+![t18](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/t18.png)
+
 ## EJERCICIO 19
 
 Se trata de realizar el diseño de la base de datos en el modelo E/R para una cadena de
@@ -294,6 +310,8 @@ los particulares, además del nombre de la persona para quien la agencia de viaj
 realizando la reserva.
 En los dos casos anteriores también se debe almacenar el precio de la reserva, la fecha
 de inicio y la fecha de fin de la reserva”.
+
+![t19](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/t19.png)
 
 ## EJERCICIO 20
 
@@ -320,6 +338,8 @@ Realiza el modelo E-R y pásalo al modelo relacional. Diseña después las tabla
 Excel, realiza las relaciones oportunas entre ellas e inserta cinco registros en cada una
 de las tablas.
 
+![t20](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/t20.png)
+
 ## EJERCICIO 21
 
 Una agencia de viajes desea informatizar toda la gestión de los viajeros que acuden a la
@@ -338,6 +358,8 @@ Realizar el modelo E-R y pasarlo al modelo de datos relacional. Diseñar las tab
 Excel, realizar las oportunas relaciones entre tablas e introducir cinco registros en cada
 una de las tablas.
 
+![t21](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/t21.png)
+
 ## EJERCICIO 22
 
 Una empresa desea diseñar una base de datos para almacenar en ella toda la
@@ -355,3 +377,23 @@ guardar el número de pago, concepto, cantidad y fecha de pago. También interes
 almacenar los diferentes tipos de pagos que puede realizar la empresa. De cada uno de
 los tipos de pagos se desea guardar el código y descripción. Un tipo de pago puede
 pertenecer a varios pagos”.
+
+![t22](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/t22.png)
+
+Ejercicios de practica:
+Identificar y graficar usando la notacion chen las entidades y atributos de los siguientes sistemas:
+
+1. Biblioteca virtual (Kindle Books)
+2. Tienda virtual de Ropa
+3. Tienda virtual de Electrodomesticos
+4. Tienda virtual de mascotas
+5. Tienda virtual de medicamentos
+6. Tienda virtual de bisuteria
+7. Tienda virtual de peliculas
+8. Tienda virtual de automoviles
+9. Tienda virtual de motocicletas
+10. Tienda virtual de bicicletas
+
+url:
+
+https://bdalfonso.blogspot.com/2013/06/modelo-err-ejercicios-resueltos.html
