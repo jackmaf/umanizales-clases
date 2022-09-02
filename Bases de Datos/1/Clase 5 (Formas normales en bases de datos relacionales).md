@@ -20,11 +20,15 @@ Alguien que pueda ver tu base de datos puede decir "pero porque guardaste el nom
 
 **Atributos atómicos (Sin campos repetidos o COLUMNAS)**
 
+**Se traduce básicamente a que si tenemos campos compuestos como por ejemplo “nombre_completo” que en realidad contiene varios datos distintos, en este caso podría ser “nombre”, “apellido_paterno”, “apellido_materno”, etc.**
+
 ![fn1](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/fn1.png)
 
 ## Segunda forma normal (2FN)
 
 **Cumple 1FN y cada campo de la tabla debe depender de una clave única (REGISTROS O FILAS REPETIDOS).**
+
+**quiere decir que sí tenemos datos que pertenecen a diversas entidades, cada entidad debe tener un campo clave separado**
 
 ![fn2](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/fn2.png)
 
@@ -32,11 +36,15 @@ Alguien que pueda ver tu base de datos puede decir "pero porque guardaste el nom
 
 **Cumple 1FN y 2FN y los campos que NO son clave, NO deben tener dependencias.**
 
+**se traduce en que aquellos datos que no pertenecen a la entidad deben tener una independencia de las demás y debe tener un campo clave propio**
+
 ![fn3](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/fn3.png)
 
 ## Cuarta forma normal (4FN)
 
 **Cumple 1FN, 2FN, 3FN y los campos multivaluados se identifican por una clave única.**
+
+**Esta FN trata de eliminar registros duplicados en una entidad, es decir que cada registro tenga un contenido único y de necesitar repetir la data en los resultados se realiza a través de claves foráneas.**
 
 ![fn4](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/fn4.png)
 
@@ -61,3 +69,36 @@ También debemos asegurarnos que las columnas son las mismas para todos los regi
 Todos los campos que no se consideran clave deben depender de manera única por el o los campos que si son clave.
 
 Los campos deben ser tales que si reordenamos los registros o reordenamos las columnas, cada dato no pierda el significado.
+
+# Segunda Forma Normal (2FN)
+
+Esta FN nos ayuda a diferenciar los datos en diversas entidades.
+
+Formalmente, una tabla está en segunda forma normal si:
+
+- Está en 1FN
+- Sí los atributos que no forman parte de ninguna clave dependen de forma completa de la clave principal. Es decir, que no existen dependencias parciales.
+- Todos los atributos que no son clave principal deben depender únicamente de la clave principal.
+  Lo anterior quiere decir que sí tenemos datos que pertenecen a diversas entidades, cada entidad debe tener un campo clave separado.
+
+# Tercera Forma Normal (3FN)
+
+Esta FN nos ayuda a separar conceptualmente las entidades que no son dependientes.
+
+Formalmente, una tabla está en tercera forma normal si:
+
+- Se encuentra en 2FN
+- No existe ninguna dependencia funcional transitiva en los atributos que no son clave
+
+Esta FN se traduce en que aquellos datos que no pertenecen a la entidad deben tener una independencia de las demás y debe tener un campo clave propio.
+
+# Cuarta Forma Normal (4FN)
+
+Esta FN nos trata de atomizar los datos multivaluados de manera que no tengamos datos repetidos entre rows.
+
+Formalmente, una tabla está en cuarta forma normal si:
+
+- Se encuentra en 3FN
+- Los campos multivaluados se identifican por una clave única
+
+Esta FN trata de eliminar registros duplicados en una entidad, es decir que cada registro tenga un contenido único y de necesitar repetir la data en los resultados se realiza a través de claves foráneas.
