@@ -1,3 +1,5 @@
+![Normalización](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/normalizacion.png)
+
 # Formas normales en Bases de Datos relacionales
 
 La normalización como su nombre lo indica nos ayuda a dejar todo de una forma normal. Esto obedece a las 12 reglas de Codd y nos permiten separar componentes en la base de datos:
@@ -22,7 +24,7 @@ Alguien que pueda ver tu base de datos puede decir "pero porque guardaste el nom
 
 ## Segunda forma normal (2FN)
 
-**Cumple 1FN y cada campo de la tabla debe depender de una clave única.**
+**Cumple 1FN y cada campo de la tabla debe depender de una clave única (REGISTROS O FILAS REPETIDOS).**
 
 ![fn2](https://github.com/jackmaf/umanizales-clases/blob/master/Bases%20de%20Datos/1/ARCHIVOS/fn2.png)
 
@@ -40,7 +42,7 @@ Alguien que pueda ver tu base de datos puede decir "pero porque guardaste el nom
 
 # Primera Forma Normal (1FN)
 
-Esta FN nos ayuda a eliminar los valores repetidos y no atómicos dentro de una base de datos.
+Esta FN **nos ayuda a eliminar los valores repetidos y no atómicos** dentro de una base de datos.
 
 Formalmente, una tabla está en primera forma normal si:
 
@@ -52,7 +54,7 @@ Formalmente, una tabla está en primera forma normal si:
 
 - Debe existir una independencia del orden tanto de las filas como de las columnas; es decir, si los datos cambian de orden no deben cambiar sus significados.
 
-Se traduce básicamente a que si tenemos campos compuestos como por ejemplo “nombre_completo” que en realidad contiene varios datos distintos, en este caso podría ser “nombre”, “apellido_paterno”, “apellido_materno”, etc.
+**Se traduce básicamente a que si tenemos campos compuestos como por ejemplo “nombre_completo” que en realidad contiene varios datos distintos, en este caso podría ser “nombre”, “apellido_paterno”, “apellido_materno”, etc.**
 
 También debemos asegurarnos que las columnas son las mismas para todos los registros, que no haya registros con columnas de más o de menos.
 
